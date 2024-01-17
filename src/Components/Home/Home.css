@@ -1,0 +1,22 @@
+.wraper{
+    width: 100px;
+    height:100px;
+}
+.nav{
+    display: flex;
+    flex-direction: column;
+    margin:auto;
+    margin-top: 80px;
+    margin-left:1400px;
+    background:white;
+    padding-bottom: 30px;
+}
+.cont{
+    display: flex;
+    flex-direction: column;
+    margin:auto;
+    margin-top: 80px;
+    margin-left:1400px;
+    background:transparent;
+    padding-bottom: 30px;
+}
